@@ -1,5 +1,5 @@
-Welcome to Guarma
-Meu nome é Felipe Velozo
+##Welcome to Guarma
+##Meu nome é Felipe Velozo
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
